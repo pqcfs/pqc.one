@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Post-Quantum Cryptography
-subtitle: "quantum-resistant cryptography"
+title: PQC
+subtitle: "Post-Quantum Cryptography"
 description: "Post-quantum cryptography, sometimes referred to as quantum-proof, quantum-safe, or quantum-resistant, is the development of cryptographic algorithms that are thought to be secure against a cryptanalytic attack by a quantum computer. "
-keywords: "Crypto Agility, PQC, QAD, quantum-safe"
+keywords: "Crypto Agility, PQC, QAD, Post-Quantum Cryptography, quantum-safe, Quantum-Resistant Cryptography"
 author: Ethan Xia
 language: en
 timezone: "America/Los_Angeles"
